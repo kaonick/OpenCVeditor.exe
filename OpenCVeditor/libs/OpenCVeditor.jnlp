@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="OpenCVeditor.jnlp">
+  <information>
+    <title>OpenCVeditor</title>
+    <vendor>Unknown</vendor>
+    <description>OpenCVeditor</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="FTC00base.jar" size="61170" download="eager" />
+    <jar href="OpenCVeditor.jar" size="313090" download="eager" />
+    <jar href="commons-beanutils-1.9.3.jar" size="246174" download="eager" />
+    <jar href="commons-collections-3.2.2.jar" size="588337" download="eager" />
+    <jar href="commons-configuration2-2.4.jar" size="637501" download="eager" />
+    <jar href="commons-lang3-3.8.1.jar" size="501879" download="eager" />
+    <jar href="commons-logging-1.2.jar" size="61829" download="eager" />
+    <jar href="commons-text-1.6.jar" size="197176" download="eager" />
+    <jar href="gson-2.8.5.jar" size="241622" download="eager" />
+    <jar href="guava-27.0-jre.jar" size="2747878" download="eager" />
+    <jar href="javaparser-core-3.13.5.jar" size="1158364" download="eager" />
+    <jar href="javaparser-symbol-solver-core-3.13.5.jar" size="415826" download="eager" />
+    <jar href="javaparser-symbol-solver-logic-3.13.5.jar" size="17069" download="eager" />
+    <jar href="javaparser-symbol-solver-model-3.13.5.jar" size="7260" download="eager" />
+    <jar href="javassist-3.24.0-GA.jar" size="777669" download="eager" />
+    <jar href="jsr305-3.0.2.jar" size="19936" download="eager" />
+    <jar href="mysql-connector-java-5.1.25.jar" size="848399" download="eager" />
+    <jar href="opencv-400.jar" size="462940" download="eager" />
+    <jar href="ormlite-core-5.1.jar" size="330307" download="eager" />
+    <jar href="ormlite-jdbc-5.1.jar" size="71435" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="com.ck.opencveditor.view.s000main.OpenCVEditorExe"  name="OpenCVeditor" />
+  <update check="background"/>
+</jnlp>
