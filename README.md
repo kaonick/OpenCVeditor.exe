@@ -7,11 +7,18 @@ I only have one person, so...hey... need patience.
 
 # Install
 - in windows
+
 - Install java
+
 - Install **opencv**(4.0~)
+
 - download **OpenCVeditor**
+
 - edit OpenCVeditor.bat:change path of opencv(<u>-Djava.library.path=D:\dev-soft\c_include\opencv4.0\build\java\x64</u>)
+
 - edit AppConfig.properties in \libs:change path of install root path(<u>Workspace_Dir=D:/WS/WS_GitHub/OpenCVeditor.exe/OpenCVeditor</u>)
+
+  *in windows
 
 # Run
 Just run **OpenCVeditor.bat**
