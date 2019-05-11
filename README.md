@@ -18,7 +18,7 @@ I only have one person, so...hey... need patience.
 
 - edit AppConfig.properties in \libs:change path of install root path(<u>Workspace_Dir=D:/WS/WS_GitHub/OpenCVeditor.exe/OpenCVeditor</u>)
 
-  *in windows
+
 
 # Run
 Just run **OpenCVeditor.bat**
