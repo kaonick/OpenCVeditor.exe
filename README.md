@@ -25,3 +25,20 @@ Just run **OpenCVeditor.bat**
 
 # Samples
 - case1:open \samples\case1.json then you will find what happen.
+- case2:open \samples\case2_contour.json ==>More complicated case.
+
+
+
+# Road map
+
+- 2019/05:
+  - Basic function development.
+  - Github download repository create.
+  - 
+- In the near future:
+  - Directed acyclic graph diagram development.
+  - Code generator: java, python, c++.
+  - User-defined function development.
+  - Sub function integration and development.
+  - Subscription process and feature development.
+- 

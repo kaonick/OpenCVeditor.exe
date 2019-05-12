@@ -9,7 +9,7 @@
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
     <jar href="FTC00base.jar" size="61170" download="eager" />
-    <jar href="OpenCVeditor.jar" size="313090" download="eager" />
+    <jar href="OpenCVeditor.jar" size="2105315" download="eager" />
     <jar href="commons-beanutils-1.9.3.jar" size="246174" download="eager" />
     <jar href="commons-collections-3.2.2.jar" size="588337" download="eager" />
     <jar href="commons-configuration2-2.4.jar" size="637501" download="eager" />
