@@ -18,13 +18,14 @@ I only have one person, so...hey... need patience.
 
 - edit AppConfig.properties in \libs:change path of install root path(<u>Workspace_Dir=D:/WS/WS_GitHub/OpenCVeditor.exe/OpenCVeditor</u>)
 
-  *in windows
+
 
 # Run
 Just run **OpenCVeditor.bat**
 
 # Samples
 - case1:open \samples\case1.json then you will find what happen.
+<<<<<<< HEAD
 - case2:open \samples\case2_contour.json ==>More complicated case.
 
 
@@ -42,3 +43,5 @@ Just run **OpenCVeditor.bat**
   - Sub function integration and development.
   - Subscription process and feature development.
 - 
+=======
+>>>>>>> fa9957cc3386dd6f8215fb0251f15081cc600895
